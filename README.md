@@ -1,15 +1,15 @@
-**QBot**
+**<h1>QBot</h1>**
 
-Description
+<h2>Description</h2>
 Welcome to the GitHub repository of the Humble Mecanum Robot, a ROS2-based robot equipped with four wheels, encoders, an IMU, and a LiDAR. This robot is designed to provide smooth and precise omnidirectional motion using the mecanum wheel mechanism, and it utilizes data fusion from encoders and the IMU to calculate accurate odometry. With navigation2 (nav2) and SLAM capabilities, the robot can autonomously move from point A to point B, while incorporating linear y-motion for enhanced spatial awareness.
 
-**Features:**
+**<h2>Features:</h2>**
 - Mecanum wheels for omnidirectional movement.
 - Data fusion from encoders and IMU for precise odometry.
 - Navigation2 (nav2) for point-to-point autonomous navigation.
 - SLAM functionality with linear y-motion support.
 
-**Installation:**
+**<h2>Installation:</h2>**
 
 **1. Prerequisites:**
 - Ubuntu 20.04 (Focal Fossa) or later
